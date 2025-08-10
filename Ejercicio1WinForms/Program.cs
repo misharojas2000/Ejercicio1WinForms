@@ -13,6 +13,7 @@ namespace Ejercicio1WinForms
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
             Application.Run(new Ejercicio2());
+            Application.Run(new Ejercicio3());
         }
     }
 }
